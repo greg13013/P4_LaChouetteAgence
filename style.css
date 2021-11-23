@@ -1040,3 +1040,19 @@ h4 {
         text-align: center;
     }
 }
+
+/*AJOUT MODIF SEO*/
+
+.texteBloc{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.citation{
+    font-size: 2rem;
+}
+
+.centrerImagePortfolio{
+    display: flex !important;
+    justify-content: center;
+}
