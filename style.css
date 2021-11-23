@@ -1060,3 +1060,8 @@ h4 {
 .black{
     color: #000000 !important;
 }
+
+.marginSEO{
+    margin: 8px;
+    height: 30px;
+}
